@@ -55,7 +55,7 @@ Follow these steps to set up and run the project:
 
 4. **Access the Colaboratory**
    ```bash
-   Collab <https://colab.research.google.com/drive/19Y96L8z7wmO7GaLSPd6h3n6iLBkrJT_P?usp=drive_link>
+   Colab : <https://colab.research.google.com/drive/19Y96L8z7wmO7GaLSPd6h3n6iLBkrJT_P?usp=drive_link>
    
    ```
 
