@@ -35,7 +35,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**
    ```bash
-   git clone <https://github.com/mmanikandan281/Sumarize-Content-Text-To-Speech.git>
+   git clone <gh repo clone mmanikandan281/Sumarize-Content-Text-To-Speech>
    cd <https://github.com/mmanikandan281/Sumarize-Content-Text-To-Speech>
    ```
 
