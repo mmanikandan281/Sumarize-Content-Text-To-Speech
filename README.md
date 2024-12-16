@@ -35,7 +35,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/mmanikandan281/Sumarize-Content-Text-To-Speech.git>
    cd <repository-directory>
    ```
 
@@ -50,7 +50,7 @@ Follow these steps to set up and run the project:
    - Use Google Colab's `userdata` module to securely input the key:
      ```python
      from google.colab import userdata
-     OPENAI_API_KEY = userdata.get('OpenAi')
+     OPENAI_API_KEY = userdata.get('secretName')
      ```
 
 ---
