@@ -109,8 +109,8 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 For inquiries or feedback, reach out to:
 
-- **Name**: [Manikandan M]
-- **Email**: [mmanikandan281@gmail.com]
+- **Name**: Manikandan M
+- **Email**: mmanikandan281@gmail.com
 
 ---
 
