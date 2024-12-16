@@ -120,4 +120,4 @@ For inquiries or feedback, reach out to:
 
 ---
 
-Enjoy using the Text-to-Speech Summarization Project!
+Enjoy using the Text-to-Speech Summarization Project💌!
