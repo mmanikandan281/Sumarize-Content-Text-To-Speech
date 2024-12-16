@@ -36,7 +36,7 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**
    ```bash
    git clone <https://github.com/mmanikandan281/Sumarize-Content-Text-To-Speech.git>
-   cd <repository-directory>
+   cd <README.md>
    ```
 
 2. **Install Dependencies**
@@ -109,8 +109,8 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 For inquiries or feedback, reach out to:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: [Manikandan M]
+- **Email**: [mmanikandan281@gmail.com]
 
 ---
 
