@@ -105,11 +105,6 @@ Follow these steps to set up and run the project:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
----
 
 ## Contact
 
